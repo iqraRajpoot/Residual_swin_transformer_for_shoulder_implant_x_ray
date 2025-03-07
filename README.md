@@ -22,6 +22,7 @@ This repository contains the implementation of a deep learning-based approach fo
 - **4 Classes**: Cofield (83), Depuy (294), Tornier (71), Zimmer (149)
 - **Image Size**: 250x250 pixels
 - **Total Images**: 597 (before augmentation)
+- **Dataset Link**: [Shoulder Implant X-ray Classification Dataset](https://www.kaggle.com/datasets/kmader/shoulder-implant-xray-manufacturer-classification)
 
 ## Implementation Details
 - **Framework**: PyTorch
