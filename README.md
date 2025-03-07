@@ -18,7 +18,7 @@ This repository contains the implementation of a deep learning-based approach fo
 - **Pretraining**: Swin Transformer was pretrained on the **ImageNet dataset**, enhancing feature learning and model convergence.
 
 ## Dataset
-- **Shoulder Implant X-ray Classification Dataset** (Urban et al., 2020)
+- **Shoulder Implant X-ray Classification Dataset**
 - **4 Classes**: Cofield (83), Depuy (294), Tornier (71), Zimmer (149)
 - **Image Size**: 250x250 pixels
 - **Total Images**: 597 (before augmentation)
